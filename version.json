@@ -1,5 +1,5 @@
 {
   "version": 1,
   "url": "https://github.com/nesty21/ecos-parches/releases/download/v1/ecos_parche.pck",
-  "notas": "Velocidad +1/nivel y crítico ×1.2+0.1/nivel (techo ×3). Brújula N/S/O/E. Orden de turno: elegís primero, luego velocidad. Log de combate claro (quién actúa, milagro, defensa→daño, Disparo nocivo). Limpia marcas al entrar. Dual: ceil(Ataque/2) por mano."
+  "notas": "Velocidad +1/nivel y crítico ×1.2+0.1/nivel (techo ×3). Brújula N/S/O/E. Orden de turno: elegís primero, luego velocidad. Log de combate claro (quién actúa, milagro, defensa→daño, Disparo nocivo). Limpia marcas al entrar. Dual: ceil(Ataque/2) por mano (v1)."
 }
