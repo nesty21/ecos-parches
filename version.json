@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "version_nombre": "1.6",
-  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.6/ecos_parche.pck",
-  "notas": "Ecos 1.6 completa: mapa de Vieloran, combate, Serie Forzada, EnFa y necesidades; enemigos desde atributos 13 x1.3, +1 a todas las planas por nivel, Guardian23, franjas de Eco y ventaja del Picaro solo con doble arma agil. Reinicia el juego tras descargar.",
-  "sha256": "1e3714bec7ebc616e60001bb9a7f22cc85da2f16dd53c86f2d990c0c385c1851"
+  "version": 4,
+  "version_nombre": "1.7",
+  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.7/ecos_parche.pck",
+  "notas": "Ecos 1.7: municion en grupos de 20/40, comercios por ubicacion, Serie Forzada y gestion de conjuros fuera de combate, investigar una vez por llegada con d100 >50 y NPC alineados. Incluye todos los cambios de 1.6. Reinicia tras descargar.",
+  "sha256": "8d8dbe96ffde5d52280fd1c01a08a137a67c27b5a94410848fa8d06a85e1c9cf"
 }
