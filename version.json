@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "version_nombre": "1.6",
+  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.6/ecos_parche.pck",
+  "notas": "Ecos 1.6: nuevo mapa de Vieloran, rutas y zonas de farmeo; mejoras del registro y ventana de combate; correccion de Serie Forzada; EnFa y necesidades individuales con aviso visual; acierto enemigo aplicado. Reinicia el juego tras descargar.",
+  "sha256": "10e88a197b6b78ef8a2ce6e1b6ab95430ac02bbadd79a1987e02190462991778"
+}
