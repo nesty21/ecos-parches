@@ -1,6 +1,7 @@
 {
-  "version": 1,
-  "version_nombre": "1.5",
-  "url": "",
-  "notas": "Ecos 1.6 en preparacion: se incorpora el balance completo de enemigos."
+  "version": 3,
+  "version_nombre": "1.6",
+  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.6/ecos_parche.pck",
+  "notas": "Ecos 1.6 completa: mapa de Vieloran, combate, Serie Forzada, EnFa y necesidades; enemigos desde atributos 13 x1.3, +1 a todas las planas por nivel, Guardian23, franjas de Eco y ventaja del Picaro solo con doble arma agil. Reinicia el juego tras descargar.",
+  "sha256": "1e3714bec7ebc616e60001bb9a7f22cc85da2f16dd53c86f2d990c0c385c1851"
 }
