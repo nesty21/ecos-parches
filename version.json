@@ -1,7 +1,7 @@
 {
-  "version": 5,
-  "version_nombre": "1.7",
-  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.7/Ecos_1.7_revision5.pck",
-  "notas": "Ecos 1.7 revision 5: corrige lista invisible de Conjuros en combate y muestra Parche 1.7 / Revision 5 en el menu principal. Incluye los cambios anteriores. Cierra completamente y vuelve a abrir tras descargar.",
-  "sha256": "b29342444ece2e663f35ed5b125bd25848a4a0f218ac25554632dacbe5a0487d"
+  "version": 6,
+  "version_nombre": "1.8",
+  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.8/Ecos_1.8.pck",
+  "notas": "Ecos 1.8: cinco pasivas y activas raciales, tres oportunidades con KO y recuperacion en la posada, Golpe Fuerte y salvaciones con boton. Incluye los cambios anteriores. Cierra completamente y vuelve a abrir tras descargar.",
+  "sha256": "6687539a862e742be0e3db533d881ddff37196ea979578b39bd1e72cb3435a95"
 }
