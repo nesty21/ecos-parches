@@ -1,7 +1,7 @@
 {
-  "version": 6,
-  "version_nombre": "1.8",
-  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.8/Ecos_1.8.pck",
-  "notas": "Ecos 1.8: cinco pasivas y activas raciales, tres oportunidades con KO y recuperacion en la posada, Golpe Fuerte y salvaciones con boton. Incluye los cambios anteriores. Cierra completamente y vuelve a abrir tras descargar.",
-  "sha256": "6687539a862e742be0e3db533d881ddff37196ea979578b39bd1e72cb3435a95"
+  "version": 7,
+  "version_nombre": "1.9",
+  "url": "https://github.com/nesty21/ecos-parches/releases/download/v1.9/Ecos_1.9.pck",
+  "notas": "Ecos 1.9: conjuros Natos por nivel, trucos en Atacar, competencia magica, identidad racial, retratos nuevos y animaciones de las cinco razas. Incluye todos los cambios anteriores. Cierra completamente y vuelve a abrir tras descargar.",
+  "sha256": "cf8a4c8826c10792143588d36d7d433c6fd08a03b956147dab684ded69a791cc"
 }
